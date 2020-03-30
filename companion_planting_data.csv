@@ -1,0 +1,24 @@
+plant,height_min,height_max,harvest_weeks,squares,per_square,companions,foes
+arugula,8,10,6,3,4,"beets, carrots, lettuce, onions, spinach, dill",
+basil,16,16,12,1,1,lettuce,
+beets,12,12,8,3,9,"cauliflower, broccoli, kale, peas, onions, chard",
+broccoli,18,24,16,2,1,"beets, calendula, carrots, dill, marigold, onions",cauliflower
+cantaloupe,60,60,13,4,0.5,"oregano, radish, marigold",
+carrots,12,12,10,3,16,"chives, lettuce, onions, peas, radish",dill
+cauliflower,18,24,14,2,1,"onions, beets, dill","peas, broccoli"
+chives,12,18,12,1,9,carrots,"peas, spinach"
+cilantro,24,24,10,1,1,"spinach, kale",
+dill,36,36,7,1,1,"broccoli, cauliflower, lettuce, onions",carrots
+echinacea,48,48,NA,1,1,,
+fennel,48,48,NA,1,1,,"arugula, beets, broccoli, cantaloupe, carrots, cauliflower, kale, lettuce, onions, peas, pepper, radish, chard, spinach"
+kale,10,24,6,0,2,"dill, cilantro, chives, basil, parsley, marigold",
+lettuce,6,12,7,3,4,"beets, carrots, radish, onon, broccoli, cauliflower, spinach",
+marigold,6,24,NA,1,4,"basil, broccoli, kale, cantaloupe, lettuce, onions",
+onions,12,12,20,3,16,"beets, carrots, lettuce, broccoli, cauliflower, dill",peas
+oregano,24,24,12,1,1,pepper,
+parsley,16,16,11,1,4,"onions, broccoli, cauliflower",
+peas,60,60,10,2,8,"carrots, radish, spinach, parsley",onions
+pepper,12,24,19,2,1,"basil, carrots, onions, parsley, oregano, chard",fennel
+radish,6,18,4,3,16,"lettuce, cantaloupe, peas, carrots, onions, beets, spinach",
+chard,12,18,8,1,4,"onion, broccoli, cauliflower",
+spinach,6,12,7,2,9,"cauliflower, broccoli, lettuce, peas, radish",
